@@ -24,6 +24,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Cloud-Aws_Google_Cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## A little more about me...
+```
 const vineet = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Flutter", "Python", "Java", "php"],
@@ -47,16 +48,16 @@ const vineet = {
     currentFocus: "Ios Mobile App Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-
+```
 ## I'm an Early 🐤
-
+```
 🌞 Morning    60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
 🌆 Daytime    191 commits    ██████████░░░░░░░░░░░░░░░   40.21% 
 🌃 Evening    135 commits    ███████░░░░░░░░░░░░░░░░░░   28.42% 
 🌙 Night      89 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.74%
 
 
-
+```
 
 
 
