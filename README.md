@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/vineetgeek/vineetgeek/master/name.svg" alt="Vineet Geek" />
 </h1>
 
-My name is Vineet Srivastav and I'm a software developer/DevOps engineer. I'm from India, living in Delhi-NCR. You can find me on Twitter -<a href='https://twitter.com/vineet9798'>Vineet9798</a>
+My name is Vineet Srivastav and I'm a software developer/DevOps engineer. I'm from India, living in Delhi-NCR. You can find me on Twitter -<a href='https://twitter.com/vineetgeek'>Vineetgeek</a>
 
 ## &#x270d; Blog & Writing
 
