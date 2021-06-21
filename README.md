@@ -16,7 +16,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## A little more about me...
 ```
 const vineet = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Flutter", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "ML"],
     technologies: {
